@@ -8,7 +8,11 @@
     .title-style{
         font-size : 22px;
         color : #5F259F;
-        font-weight : 500;
+        font-weight : 900;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-style: unset;
     }
     ::-webkit-scrollbar {
         width: 5px;
